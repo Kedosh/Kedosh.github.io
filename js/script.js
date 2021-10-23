@@ -69,7 +69,7 @@ function changeGreet(){
 
 
  function change(){
-    //  changeWords();
+     changeWords();
      changeTheme();
      changeGreet();
      changeSvg();
@@ -108,7 +108,8 @@ function changeGreet(){
 function code(){
     const codes = [
         'i love javascript alot. am pretty good with the language',
-        'i know alot of java scripts library'
+        'i know alot of java scripts library',
+        'am thinking of improving my python skill'
 
     ];
 
