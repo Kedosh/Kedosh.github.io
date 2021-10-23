@@ -675,6 +675,16 @@ img{
   width: 100px;
   border-radius: 5px;
   background-color:var(--brand-color);
+  
+}
+
+.box__icon{
+  transition: 1s;
+}
+
+.box__icon i:hover{
+  color: rgb(121, 121, 122);
+  transition: 1s;
 }
 
 .box__icon .about__info-title{
