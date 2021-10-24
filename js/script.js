@@ -55,7 +55,7 @@ function changeGreet(){
  function changeWords(){
     const words = [
     'Hello Am An Artificial intelligent enthusiast, an awesome UI/UX designer and a web developer . I love to Always update myself as fast as the technologies goes. am In loves with Artificial Intelligents and Machine Learning.  ',
-    ' Hey Am a 3D Artist & Web developer with extensive knowledge and years of experience, bringing arts, web technologies and designing together. Delivering advanced quality works. Professionally I am a 3D artist & Smart Device engineer as well.',
+    ' Hey Am a 3D Artist & Web developer with extensive knowledge and years of experience, bringing arts, web technologies and designing together. Delivering advanced quality works. ',
    
     ' Is this your first time seeing my portfolio ? Keep Scrolling.',
     ' Hey am cool as they told me, feel free to contact me.'];
