@@ -1803,3 +1803,22 @@ img{
         min-width: 700px;
       }
   }
+
+  .thanks{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+  }
+
+
+  .thanks{
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    background-color: green;
+  }
