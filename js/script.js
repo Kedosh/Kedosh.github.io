@@ -69,7 +69,7 @@ function changeGreet(){
 
 
  function change(){
-     changeWords();
+    //  changeWords();
      changeTheme();
      changeGreet();
      changeSvg();

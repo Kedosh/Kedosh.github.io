@@ -1765,6 +1765,10 @@ img{
     } */
   }
 
+  #myId{
+    display: none;
+  }
+
   /* Larger size Screen devices */
   @media screen and (min-width: 1024px){
       .header,
