@@ -938,13 +938,15 @@
                 <div class="col-lg-6 pl-lg-4 mt-lg-0 mt-6 contact-form" id="message-me">
                     <h2 class="contact__title"> Interested to work together? - <span> Let's talk </span></h2>
 
-                    <form action="#" method="POST" class="cf">
+                    <form action="https://formsubmit.co/kedosh@protonmail.com" method="POST" class="cf">
+                        <input type="hidden" name="_next" value="https://kedosh.github.io/thanks.html">
+                        <input type="hidden" name="_autoresponse" value="thanks alot for contacting me, replying shortly!">
                         <div class="row">
                             <div class="col-lg-6">
                                 <input type="text" name="message-name" class="form-control form__color mb-30 cf" placeholder="Your Name">
                             </div> 
                             <div class="col-lg-6">
-                                <input type="email" name="message-email" class="form-control form__color mb-30 cf" placeholder="Your Email">
+                                <input type="email" name="message-email" class="form-control form__color mb-30 cf" placeholder="Your Email" required>
                             </div>
                             <div class="col-12">
                                 <input type="text" name="message-subject" class="form-control form__color mb-30 cf" placeholder="Subject">
